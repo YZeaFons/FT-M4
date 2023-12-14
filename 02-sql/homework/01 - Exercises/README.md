@@ -1,7 +1,7 @@
 # HW 02: SQL | Ejercicios
 
 ## **🕒 Duración estimada**
-
+----------------Realizado YZEA --------------------
 x minutos
 
 ---

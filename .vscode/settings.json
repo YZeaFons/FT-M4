@@ -9,6 +9,16 @@
             "password": "Oficial90*",
             "name": "demo",
             "database": "demo"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "movies",
+            "name": "movies",
+            "username": "postgres",
+            "password": "Oficial90*"
         }
     ]
 }

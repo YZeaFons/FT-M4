@@ -1,7 +1,7 @@
 # **💪 HW1 | DBMS - Integration**
 
 ## **🕒 DURACIÓN ESTIMADA**
-
+----------------Realizado YZEA --------------------
 XX minutos
 
 <br />
@@ -22,7 +22,7 @@ Bienvenido a la primera homework del Módulo 4. En esta oportunidad te desafiare
 
 ---
 
-## **📋 INSTRUCCIONES**
+## **📋 INSTRUCCIONES*
 
 ### **👩‍💻 EJERCICIO 01 | Diagrama**
 
