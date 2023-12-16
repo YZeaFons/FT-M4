@@ -1,6 +1,20 @@
-SELECT *
-FROM personas
-WHERE nombre ILIKE '%ba%';
+-- ------------------------------------------------------------ Ejercicios lecture 2
+-- SELECT * FROM personas;
+-- ------------------------------INNER JOIN
+-- SELECT * FROM personas INNER JOIN ciudades
+-- ON personas.ciudad = ciudades.id;
+-- ------------------------------LEFT JOIN
+-- SELECT * FROM personas LEFT JOIN ciudades
+-- ON personas.ciudad = ciudades.id
+-- WHERE ciudades.id IS NULL;
+-- ------------------------------RIGHT JOIN
+-- SELECT * FROM personas RIGHT JOIN ciudades
+-- ON personas.ciudad = ciudades.id
+-- WHERE personas.ciudad IS NULL;
+-- ------------------------------------------------------------ Ejercicios Lecture 1
+-- SELECT *
+-- FROM personas
+-- WHERE nombre ILIKE '%ba%';
 -- SELECT AVG(rating)FROM personas;
 -- SELECT * FROM personas WHERE rating > (SELECT AVG(rating)FROM personas);
 -- SELECT * FROM ciudades;
